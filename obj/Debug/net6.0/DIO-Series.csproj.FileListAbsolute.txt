@@ -1,0 +1,15 @@
+C:\Users\goula\DIO-Series\bin\Debug\net6.0\DIO-Series.exe
+C:\Users\goula\DIO-Series\bin\Debug\net6.0\DIO-Series.deps.json
+C:\Users\goula\DIO-Series\bin\Debug\net6.0\DIO-Series.runtimeconfig.json
+C:\Users\goula\DIO-Series\bin\Debug\net6.0\DIO-Series.dll
+C:\Users\goula\DIO-Series\bin\Debug\net6.0\ref\DIO-Series.dll
+C:\Users\goula\DIO-Series\bin\Debug\net6.0\DIO-Series.pdb
+C:\Users\goula\DIO-Series\obj\Debug\net6.0\DIO-Series.csproj.AssemblyReference.cache
+C:\Users\goula\DIO-Series\obj\Debug\net6.0\DIO-Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goula\DIO-Series\obj\Debug\net6.0\DIO-Series.AssemblyInfoInputs.cache
+C:\Users\goula\DIO-Series\obj\Debug\net6.0\DIO-Series.AssemblyInfo.cs
+C:\Users\goula\DIO-Series\obj\Debug\net6.0\DIO-Series.csproj.CoreCompileInputs.cache
+C:\Users\goula\DIO-Series\obj\Debug\net6.0\DIO-Series.dll
+C:\Users\goula\DIO-Series\obj\Debug\net6.0\ref\DIO-Series.dll
+C:\Users\goula\DIO-Series\obj\Debug\net6.0\DIO-Series.pdb
+C:\Users\goula\DIO-Series\obj\Debug\net6.0\DIO-Series.genruntimeconfig.cache
